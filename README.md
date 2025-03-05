@@ -42,7 +42,5 @@ _**Contributing**
 _
 Feel free to fork the repository, make improvements, and submit pull requests. All contributions are welcome!
 
-_**License**
-
-_This project is licensed under the MIT License - see the LICENSE file for details.
+_**License**_This project is licensed under the MIT License - see the LICENSE file for details.
 
